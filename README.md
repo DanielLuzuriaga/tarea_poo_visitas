@@ -96,4 +96,4 @@ Universidad Estatal Amazónica
 
 🏆 Conclusión
 
-Este proyecto demuestra la aplicación de conceptos fundamentales de programación como la Programación Orientada a Objetos, arquitectura por capas, encapsulamiento, validaciones y persistencia de datos, logrando un sistema funcional y estructurado.
+Podemos concluir que el presente proyecto demuestra la aplicación de conceptos fundamentales de programación como la Programación Orientada a Objetos, arquitectura por capas, encapsulamiento, validaciones y persistencia de datos, logrando un sistema funcional y estructurado.
